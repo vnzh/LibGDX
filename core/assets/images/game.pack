@@ -1,0 +1,145 @@
+
+images1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+playerBase
+  rotate: false
+  xy: 2, 2
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+aiBase
+  rotate: false
+  xy: 164, 2
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+simpleButton
+  rotate: false
+  xy: 326, 2
+  size: 320, 80
+  orig: 320, 80
+  offset: 0, 0
+  index: -1
+shortButton
+  rotate: false
+  xy: 2, 164
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+resource
+  rotate: false
+  xy: 164, 164
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+grass
+  rotate: false
+  xy: 326, 84
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+tankcore
+  rotate: false
+  xy: 648, 2
+  size: 320, 64
+  orig: 320, 64
+  offset: 0, 0
+  index: -1
+tankanim
+  rotate: false
+  xy: 648, 68
+  size: 320, 64
+  orig: 320, 64
+  offset: 0, 0
+  index: -1
+turret
+  rotate: false
+  xy: 84, 164
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tank
+  rotate: false
+  xy: 246, 164
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+harvester
+  rotate: false
+  xy: 326, 166
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+mainMenu
+  rotate: false
+  xy: 408, 84
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1
+mainGame
+  rotate: false
+  xy: 408, 136
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1
+mainExit
+  rotate: false
+  xy: 408, 188
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1
+mainBack
+  rotate: false
+  xy: 510, 84
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1
+smButton
+  rotate: false
+  xy: 510, 136
+  size: 120, 32
+  orig: 120, 32
+  offset: 0, 0
+  index: -1
+star16
+  rotate: false
+  xy: 84, 230
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+selector
+  rotate: false
+  xy: 102, 230
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+bullet
+  rotate: false
+  xy: 120, 230
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+progressbar
+  rotate: false
+  xy: 2, 246
+  size: 60, 8
+  orig: 60, 8
+  offset: 0, 0
+  index: -1
