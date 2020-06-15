@@ -1,0 +1,173 @@
+
+images1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Base
+  rotate: false
+  xy: 2, 2
+  size: 180, 160
+  orig: 180, 160
+  offset: 0, 0
+  index: -1
+playerBase
+  rotate: false
+  xy: 184, 2
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+aiBase
+  rotate: false
+  xy: 346, 2
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+trees
+  rotate: false
+  xy: 2, 164
+  size: 300, 90
+  orig: 300, 90
+  offset: 0, 0
+  index: -1
+simpleButton
+  rotate: false
+  xy: 2, 256
+  size: 320, 80
+  orig: 320, 80
+  offset: 0, 0
+  index: -1
+shortButton
+  rotate: false
+  xy: 304, 164
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+resource
+  rotate: false
+  xy: 386, 164
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+grass80
+  rotate: false
+  xy: 324, 256
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+tankcore
+  rotate: false
+  xy: 2, 338
+  size: 320, 64
+  orig: 320, 64
+  offset: 0, 0
+  index: -1
+tankanim
+  rotate: false
+  xy: 2, 404
+  size: 320, 64
+  orig: 320, 64
+  offset: 0, 0
+  index: -1
+turret
+  rotate: false
+  xy: 406, 256
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tank
+  rotate: false
+  xy: 324, 338
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+harvester
+  rotate: false
+  xy: 390, 338
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+grass
+  rotate: false
+  xy: 324, 404
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+mainMenu
+  rotate: false
+  xy: 386, 404
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1
+mainGame
+  rotate: false
+  xy: 2, 470
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1
+mainExit
+  rotate: false
+  xy: 104, 470
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1
+mainBack
+  rotate: false
+  xy: 206, 470
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1
+smButton
+  rotate: false
+  xy: 308, 470
+  size: 120, 32
+  orig: 120, 32
+  offset: 0, 0
+  index: -1
+BaseForMenu
+  rotate: false
+  xy: 468, 164
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+star16
+  rotate: false
+  xy: 468, 196
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+selector
+  rotate: false
+  xy: 486, 196
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+bullet
+  rotate: false
+  xy: 468, 214
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+progressbar
+  rotate: false
+  xy: 304, 246
+  size: 60, 8
+  orig: 60, 8
+  offset: 0, 0
+  index: -1
